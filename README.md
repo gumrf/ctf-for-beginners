@@ -91,7 +91,7 @@ Tools:
 
 ### Osint
 
-OSINT задачи нацелена на посик информации из открытых источников
+OSINT задачи нацелена на поиск информации из открытых источников
 
 - [Поиск по картинкам](https://www.osintessentials.com/search-by-image)
 - [Web Archive](https://web.archive.org/)
